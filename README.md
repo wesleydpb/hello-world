@@ -1,5 +1,4 @@
 # hello-world
-no one
 print ('Hello World!')
 Print (7+4)
 Print ('7'+'4')
